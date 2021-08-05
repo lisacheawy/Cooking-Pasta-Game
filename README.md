@@ -18,8 +18,7 @@ JDK 8
 ```
 
 ### Additional Resources
-#### Background music
-Firefly by less.people (Provided by Lofi Records). https://youtu.be/VfdbF5x_BPg
-
 #### Gameplay
 Gameplay of Cooking Pasta Game. https://youtu.be/MdASDhYxPsQ
+#### Background music
+Firefly by less.people (Provided by Lofi Records). https://youtu.be/VfdbF5x_BPg
