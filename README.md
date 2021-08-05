@@ -2,10 +2,12 @@
 A cooking game which I have developed as my final project for Object-Oriented Programming using Scala.
 
 ### Introduction
-This is a single-player game which involves keyboard and mouse input. It takes the player through the process of creating a pasta dish where the player is required to perform a series of tasks within each stage. A realistic Graphical User Interface (GUI) and sound effects were implemented to allow an immersive experience and realistic visualization of a cooking environment.
+This is a single-player game which involves keyboard and mouse input. It takes the player through the process of creating a pasta dish where the player is required to perform a series of tasks within each stage. A Graphical User Interface (GUI) and sound effects were implemented to allow an immersive experience and realistic visualization of a cooking environment.
 * This game was developed using Scala, and the GUI library used was ScalaFX.
 * All illustrations were designed using Adobe Illustrator.
 * All audio clips used are no-copyright and royalty-free, unless stated.  
+
+<img src="Images/cooking.gif"/>
 
 ### Prerequisites
 ScalaFX was used in this project which requires JDK 8. This project was built using sbt.
