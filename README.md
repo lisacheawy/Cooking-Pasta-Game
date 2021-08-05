@@ -7,7 +7,7 @@ This is a single-player game which involves keyboard and mouse input. It takes t
 * All illustrations were designed using Adobe Illustrator.
 * All audio clips used are no-copyright and royalty-free, unless stated.  
 
-<img src="Images/cooking.gif"/>
+<img src="Images/cooking.gif" align="center"/>
 
 ### Prerequisites
 ScalaFX was used in this project which requires JDK 8. This project was built using sbt.
