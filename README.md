@@ -7,14 +7,14 @@ This is a single-player game which involves keyboard and mouse input. It takes t
 * All illustrations were designed using Adobe Illustrator.
 * All audio clips used are no-copyright and royalty-free, unless stated.  
 
-### Installation Guide
-ScalaFX was used in this project. As such, JDK 8 is required.
+### Prerequisites
+ScalaFX was used in this project which requires JDK 8. This project was built using sbt.
 
 ```
-JDK 8
-  1. Go to https://gluonhq.com/products/javafx/ to download JavaFx, preferably Long Term Support (LTS).
-  2. After downloading the zip file, extract the files into a folder in your drive.
-  3. Go to environment variables to add the path of the folder to the system variable.
+The following are instructions on how to deploy the game on your system.
+1. Install the src folder and built.sbt file.
+2. Open cmd and go to the project folder.
+3. Type 'sbt' and run.
 ```
 
 ### Additional Resources
